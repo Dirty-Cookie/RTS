@@ -26,9 +26,6 @@ The engine is set by default with a test dataset and some example maps you can l
 - **F2** : Editor Mode
 - **F3** : First Person view (for testing purpose)
 
-# Need Help?
-First, you should take a look at the <a href="https://github.com/methusalah/OpenRTS/wiki" target="_blank">wiki</a>.  Then you will likely want to go to the <a href="http://hub.jmonkeyengine.org/c/user-code-projects/openrts" target="_blank">forum</a>.
-
 And of course, you shouldn't hesitate to write to us at openRTS.team@gmail.com
 
 # How to contribute?
